@@ -1,0 +1,44 @@
+.contact {
+  background-color: rgb(91, 212, 212);
+}
+
+.footer {
+  background-color: rgb(206, 253, 253);
+}
+
+.text-body-emphasis {
+  margin-bottom: 30px;
+  margin-top: 5px;
+}
+
+.btn-contact {
+  background-color: rgb(149, 170, 170);
+  border: none;
+}
+
+.header {
+  background-color: rgb(206, 253, 253);
+  max-width: 100%;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.my-name {
+  font-weight: 1000;
+  font-style: oblique;
+}
+
+.project-card .card {
+  height: 100%;
+}
+
+.project-card .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
